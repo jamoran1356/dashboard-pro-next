@@ -9,8 +9,8 @@
 
 ## ✨ **Demo Visual**
 
-![Screenshot Dashboard](https://via.placeholder.com/1200x800/6366f1/ffffff?text=Dashboard+Pro+Mockup)
 *(Login mock → Sidebar nav + 3 KPI cards + graph placeholder. Gradient blue-indigo, shadows rounded responsive)*
+
 
 ## 🚀 **Quick Start**
 
