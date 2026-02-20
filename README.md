@@ -5,7 +5,7 @@
 [![pnpm](https://img.shields.io/badge/pnpm-10.30-brightgreen?style=for-the-badge&logo=pnpm&logoColor=white)](https://pnpm.io)
 [![Stars](https://img.shields.io/github/stars/jamoran1356/dashboard-pro-next?style=social)](https://github.com/jamoran1356/dashboard-pro-next)
 
-**Dashboard Pro** es un mockup minimal de dashboard moderno para apps niche Vzla (facturación freelance, etc.). Login + sidebar nav + stats/KPIs + graphs. Static Tailwind/Next.js puro. **Base lista para bifurcar**.
+**Dashboard Pro** es un mockup minimal de dashboard moderno para apps niche Vzla. Login + sidebar nav + stats/KPIs + graphs. Static Tailwind/Next.js puro. **Base lista para bifurcar**.
 
 ## ✨ **Demo Visual**
 
@@ -47,12 +47,5 @@ src/
     ├── layout.tsx   # Root layout
     └── globals.css  # Tailwind
 ```
-
-## 🔮 **Próximo**
-- Expandir **Facturación IA Vzla** (SENIAT PDF/taxes).
-- **Contratos Scan** (PDF risks).
-- Docker Postgres Prisma full.
-
-**Proyecto Diario #2 by Takehiro 🎋 | Stars/RT para Vzla devs!** ⭐
 
 [![Deploy](https://img.shields.io/badge/Deploy-Vercel-orange?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/new/git/external?repository-url=https://github.com/jamoran1356/dashboard-pro-next)
