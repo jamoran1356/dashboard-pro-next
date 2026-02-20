@@ -6,8 +6,8 @@ export default function Dashboard() {
       {/* Mock Login */}
       <div className="max-w-md mx-auto mb-12 p-8 bg-white rounded-2xl shadow-xl">
         <h1 className="text-3xl font-bold text-gray-900 mb-6">Login Mockup</h1>
-        <input className="w-full p-3 border border-gray-300 rounded-lg mb-4" placeholder="Email: jesus@moran.com" />
-        <input className="w-full p-3 border border-gray-300 rounded-lg mb-6" placeholder="Pass: monica2026" type="password" />
+        <input className="w-full p-3 border border-gray-300 rounded-lg mb-4" placeholder="user@example.com" />
+        <input className="w-full p-3 border border-gray-300 rounded-lg mb-6" placeholder="password123" type="password" />
         <button className="w-full bg-blue-600 text-white p-3 rounded-lg font-semibold hover:bg-blue-700">Entrar</button>
       </div>
 
